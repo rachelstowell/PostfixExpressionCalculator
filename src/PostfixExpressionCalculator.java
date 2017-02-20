@@ -6,7 +6,7 @@ import java.util.*;
 import java.lang.*;
 import java.util.regex.Pattern;
 
-public class CPS315assignment1 {
+public class PostfixExpressionCalculator {
 
     public static void main(String[] args) {
         System.out.print("Hello! This is a postfix expression calculator.");
